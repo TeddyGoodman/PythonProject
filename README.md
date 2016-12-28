@@ -5,4 +5,5 @@
 - 2 Provide all web version wechat function via command line interface.
 
 [BaseProject:Wxbot](https://github.com/liuwons/wxBot)
+
 [WechatWeb](https://web.wechat.com/)
